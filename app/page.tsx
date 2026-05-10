@@ -68,7 +68,7 @@ export default function CvNicsonDavila() {
 
           <div className="mt-4 flex items-start justify-between gap-4">
             <div className="flex h-24 w-24 items-center justify-center rounded-3xl border border-white/20 bg-white/10 text-3xl font-black tracking-tight shadow-xl">
-              ND
+              KAREN TE AMO 
             </div>
 
             <div className="rounded-3xl border border-white/15 bg-white p-3 shadow-2xl">
